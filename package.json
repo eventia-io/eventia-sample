@@ -33,7 +33,7 @@
     "dependencies": {
         "@eventia/core": "0.0.2",
         "@eventia/postgresql-eventstorage": "0.0.1",
-        "fastify": "^2.4.1",
+        "fastify": "^2.15.1",
         "pino": "^5.12.6"
     }
 }
